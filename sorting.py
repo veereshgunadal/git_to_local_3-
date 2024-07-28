@@ -5,7 +5,6 @@ def bubble(l):
                 temp = l[j]
                 l[j] = l[j+1]
                 l[j+1] = temp
+l = [2,1,5,3,6,7]
+bubble(l)
 print(l)
-print('',l)
-print(1)
-print(2)
