@@ -7,5 +7,5 @@ def bubble(l):
                 l[j+1] = temp
 print(l)
 print('',l)
-
+print(1)
 print(2)
