@@ -5,3 +5,5 @@ def bubble(l):
                 temp = l[j]
                 l[j] = l[j+1]
                 l[j+1] = temp
+
+print('',l)
